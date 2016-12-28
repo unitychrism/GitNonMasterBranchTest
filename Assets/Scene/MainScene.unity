@@ -157,7 +157,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is the master branch
+  m_Text: This is the alternate-branch branch
 --- !u!222 &184865993
 CanvasRenderer:
   m_ObjectHideFlags: 0
